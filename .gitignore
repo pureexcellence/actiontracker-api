@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# dotenv environment files
+.env
+.env.*
+!.env.example
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
